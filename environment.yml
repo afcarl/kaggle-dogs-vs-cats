@@ -1,0 +1,4 @@
+name: dogs-vs-cats
+dependencies:
+- anaconda
+- keras=1
